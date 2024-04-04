@@ -1,0 +1,18 @@
+Symbol range map extraction starting
+Processing 16 files
+processing com\unloged\overlay\BedwarsCommand.java
+processing com\unloged\overlay\BlacklistCommand.java
+processing com\unloged\overlay\EventListener.java
+processing com\unloged\overlay\Main.java
+processing com\unloged\overlay\config\Config.java
+processing com\unloged\overlay\config\OverlayGUI.java
+processing com\unloged\overlay\mods\Mod.java
+processing com\unloged\overlay\mods\impl\BedwarsOverlay.java
+processing com\unloged\overlay\objects\OverlayPlayer.java
+processing com\unloged\overlay\objects\PlayerProfile.java
+processing com\unloged\overlay\objects\PlayerStats.java
+processing com\unloged\overlay\utilities\APIUtils.java
+processing com\unloged\overlay\utilities\MinecraftInstance.java
+processing com\unloged\overlay\utilities\NetworkUtils.java
+processing com\unloged\overlay\utilities\PlayerUtils.java
+processing com\unloged\overlay\utilities\RenderUtils.java
